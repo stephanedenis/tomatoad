@@ -18,7 +18,7 @@
   "author": "Dan Clarke",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^1.8.2",
+    "electron": "^7.2.4",
     "electron-builder": "^20.2.0",
     "electron-webpack": "1.12.1",
     "webpack": "^3.10.0",
